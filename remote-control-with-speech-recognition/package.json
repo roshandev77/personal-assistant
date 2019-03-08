@@ -1,0 +1,16 @@
+{
+  "name": "remote-control-with-speech-recognition",
+  "version": "1.0.0",
+  "description": "voice assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Himaja",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "https": "^1.0.0",
+    "mongoose": "^5.4.11"
+  }
+}
